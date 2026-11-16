@@ -1,2 +1,2 @@
 # Computer-Vision
-Basic computer vision tasks
+Basic computer vision and image processing tasks
